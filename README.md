@@ -1,10 +1,10 @@
 # Visionizer
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7196078.svg)](https://doi.org/10.5281/zenodo.7196078)
-
 <p align="center">
   <img width="600" src="images/logo.png">
 </p>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7196078.svg)](https://doi.org/10.5281/zenodo.7196078)
 
 Fashion e-commerce platforms are becoming increasingly popular. However, scanning, 1
 rendering, and captioning fashion items is still done mostly manually. In this work, we address 2
@@ -21,6 +21,7 @@ architectures over 3 fashion captioning datasets including ours.
  
 ## Datasets
 
+The following datasets were used, and are available here: [https://doi.org/10.5281/zenodo.7196078](https://doi.org/10.5281/zenodo.7196078)
 * FashionCap
 * ReducedFACAD
 * ReducedInFashAI
