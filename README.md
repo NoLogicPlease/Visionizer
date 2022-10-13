@@ -26,12 +26,12 @@ The following datasets were used, and are available here: [https://doi.org/10.52
 * tqdm
 * numba
 
-## Best BLEU score output w/o Beam Search 
+## Best BLEU score instance
 <p align="center">
   <img width="460" src="images/best_bleu.png">
 </p>
 
-## Worst BLEU score output w/o Beam Search 
+## Worst BLEU score instance
 <p align="center">
   <img width="570" src="images/worst_bleu.png">
 </p>
