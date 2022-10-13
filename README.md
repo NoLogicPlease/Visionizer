@@ -6,13 +6,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7196078.svg)](https://doi.org/10.5281/zenodo.7196078)
 
-Fashion e-commerce platforms are becoming increasingly popular. However, scanning, 1
-rendering, and captioning fashion items is still done mostly manually. In this work, we address 2
-fashion image captioning, i.e., the task of generating a textual description of a fashion item from an 3
-image portraying it. We curate a novel dataset for such task, Fashion-Cap, which contains more than 4
-290,000 images and 40,000 corresponding captions. We run an extensive study with several neural 5
-architectures over 3 fashion captioning datasets including ours. 
+Platforms for fashion e-commerce are rising in popularity. However, the majority of the manual work still goes into scanning, rendering, and captioning fashion products. The task of creating a textual description of a fashion item from a photograph depicting it is covered in this research on fashion image captioning. For this work, we create the FashionCap dataset, which consists of 40,000 captions for over 290,000 photos and it is based on the original counterpart FashionGen. We conduct a thorough analysis using several neural architectures on three fashion captioning datasets.
 
+## Best
 ## Attention Weights during generation
 <p align="center">
   <img width="600" src="images/infashai_lstm.png">
