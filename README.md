@@ -1,5 +1,7 @@
 # Visionizer
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7196078.svg)](https://doi.org/10.5281/zenodo.7196078)
+
 <p align="center">
   <img width="600" src="images/logo.png">
 </p>
