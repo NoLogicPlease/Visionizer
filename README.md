@@ -28,12 +28,12 @@ The following datasets were used, and are available here: [https://doi.org/10.52
 
 ## Best BLEU score output w/o Beam Search 
 <p align="center">
-  <img width="500" src="images/best_bleu.png">
+  <img width="460" src="images/best_bleu.png">
 </p>
 
 ## Worst BLEU score output w/o Beam Search 
 <p align="center">
-  <img width="500" src="images/worst_bleu.png">
+  <img width="570" src="images/worst_bleu.png">
 </p>
 
 ## Attention Weights during generation
