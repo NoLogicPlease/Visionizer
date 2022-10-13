@@ -4,7 +4,7 @@
   <img width="600" src="images/logo.png">
 </p>
 
-Fashion Captioning with encoder decoder architectures on the FashionCap dataset  
+Fashion Captioning with encoder decoder architectures on the FashionCap and related dataset  
 
 <p align="center">
   <img width="600" src="images/infashai_lstm.png">
@@ -12,6 +12,7 @@ Fashion Captioning with encoder decoder architectures on the FashionCap dataset
 
  
 ## Datasets
-* FACAD
-* InFashAI_DeepFashion
+
 * FashionCap
+* ReducedFACAD
+* ReducedInFashAI
