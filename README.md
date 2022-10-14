@@ -6,7 +6,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7196078.svg)](https://doi.org/10.5281/zenodo.7196078)
 
-Platforms for fashion e-commerce are rising in popularity. However, the majority of the manual work still goes into scanning, rendering, and captioning fashion products. The task of creating a textual description of a fashion item from a photograph depicting it is covered in this research on fashion image captioning. For this work, we create the Fashion-Cap dataset, which consists of 40,000 captions for over 290,000 photos and it is based on the original counterpart FashionGen. We conduct a thorough analysis using several neural architectures on three fashion captioning datasets.
+Platforms for fashion e-commerce are rising in popularity. However, the majority of the manual work still goes into scanning, rendering, and captioning fashion products. The task of creating a textual description of a fashion item from a photograph depicting it is covered in this research on fashion image captioning. For this work, we create the FashionCap dataset, which consists of 40,000 captions for over 290,000 photos and it is based on the original counterpart FashionGen. We conduct a thorough analysis using several neural architectures on three fashion captioning datasets.
 
 
 ## Datasets
